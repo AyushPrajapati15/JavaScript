@@ -1,4 +1,5 @@
 // function to check if a string is a palindrome or not
+
 function isPalindrome(string) {
   const cleanedStr = string.replace(/[^a-zA-Z0-9]/g, "").toLowerCase();
 
