@@ -8,6 +8,7 @@ function generateRandomPassword(length) {
     }
   
     return password;
+    
   }
   
   const passwordLength = 12; // You can change this to the desired password length
