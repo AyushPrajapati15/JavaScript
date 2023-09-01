@@ -13,6 +13,7 @@
 //   bob: 66,
 // };
 
+
 // console.log(marks);
 
 // // primitive data type: undefined,null,number,string,symbol,boolean
