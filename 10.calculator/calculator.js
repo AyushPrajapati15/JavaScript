@@ -19,6 +19,7 @@ function mul(x, y) {
     console.log("\n");
     
 }
+
 function div(x, y) {
     console.log("The first number is ", x);
     console.log("The second number is", y);
