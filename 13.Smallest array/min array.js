@@ -10,5 +10,5 @@ function small(arr) {
 }
 
 let arr = [1, 5, 2, 4, 3, 8, 9];
-// large(arr);
+// small(arr);
 console.log(small(arr));
