@@ -1,3 +1,6 @@
+// Function to find common elements from two arrays
+
+
 // function findCommonElements(arr1, arr2) {
 //     const commonElements = [];
   
