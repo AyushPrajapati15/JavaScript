@@ -17,7 +17,7 @@
 //   console.log(common); // Outputs: [3, 4, 5]
   
 
-
+// Other method
 function findCommonElements(arr1, arr2) {
     const commonElements = [];
   
