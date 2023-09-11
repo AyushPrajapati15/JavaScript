@@ -1,3 +1,4 @@
+// Prime number
 function isPrime(num) {
     
     if (num < 2) {
