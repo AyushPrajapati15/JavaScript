@@ -1,3 +1,4 @@
+// Count words
 function countWords(sentence) {
   let wordCount = 0;
   let isInsideWord = false;
