@@ -13,7 +13,7 @@ function findMissingNumber(nums) {
     return expectedSum - actualSum;
   }
   
-  // Example usage:
+ 
   const nums = [3, 0, 1];
   const missingNumber = findMissingNumber(nums);
   console.log(`The missing number is: ${missingNumber}`);
