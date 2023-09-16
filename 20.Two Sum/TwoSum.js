@@ -1,3 +1,4 @@
+// Two number sum of same array. given a atrget number we have to check whether the sum of any two number in the array is equal to the target element or not
 function twoSum(nums, target) {
     const IndexMap = new Map();
 
