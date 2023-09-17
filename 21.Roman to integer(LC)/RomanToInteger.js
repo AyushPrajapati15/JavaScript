@@ -14,6 +14,7 @@ function romanToInt(s) {
     let prevValue = 0;
 
     for (let i = s.length - 1; i >= 0; i--) {
+        
         const currentValue = romanToIntegerMap[s[i]];
         if (currentValue >= prevValue) {
             result += currentValue;
