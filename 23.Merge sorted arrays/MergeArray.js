@@ -1,3 +1,4 @@
+// Merge Sorted Arrays
 function mergeSortedArrays(arr1, arr2) {
     const mergedArray = [];
     let i = 0; // Pointer for arr1
