@@ -1,4 +1,4 @@
-// Triangle pattern
+// Triangle pattern incresing
 let n = 5;
 let string = "";
 
