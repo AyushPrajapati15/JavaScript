@@ -1,4 +1,4 @@
-// triangle pattern incresing
+// triangle pattern continue
 let n = 4;
 let string = "";
 let count = 1;
