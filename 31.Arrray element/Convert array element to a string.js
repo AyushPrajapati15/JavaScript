@@ -1,4 +1,4 @@
-// JavaScript array element to string
+// Convert array element to a string
 var arr = [10, 25, true, 'Hello'];
 
 console.log(arr[0].toString()); 
