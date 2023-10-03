@@ -1,3 +1,4 @@
+// Reverse array
 function reverseArray(arr) {
     const length = arr.length;
     const middle = Math.floor(length / 2);
