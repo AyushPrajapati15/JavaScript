@@ -1,6 +1,7 @@
+// Rotate an array
 function rotateArray(arr, steps) {
     if (steps < 0) {
-      // Ensure steps is non-negative
+        
       steps = steps + arr.length;
     }
     
