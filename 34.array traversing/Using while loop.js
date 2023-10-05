@@ -6,7 +6,7 @@ const data = [
     { name: 'Peter', age: 25, group: 'B' }
   ];
   
-  // while loop
+
   let len = data.length, count = 0;
   while(len--) {
     console.log(data[count]);
