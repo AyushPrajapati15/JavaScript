@@ -14,7 +14,7 @@ const data = [
 }
   
 
-
+// *************************************************************************
 const data1 = [
     { name: 'John', age: 30, group: 'A' },
     { name: 'Mary', age: 25, group: 'B' },
@@ -23,11 +23,11 @@ const data1 = [
     { name: 'Peter', age: 25, group: 'B' }
   ];
   
-  // for loop
+ 
   for (let i = 0; i < data1.length; i++) {
-    console.log(i); // here i is index
+    console.log(i);
   }
-  // foreach loop
+
   data1.forEach(function(item, index) {
     console.log(index);
   });
