@@ -17,7 +17,6 @@ var arr = [1, 2, 1, 4, 3, 3, 1, 2, 4];
 
 var unique = new Set(arr);
 
-// convert set to array
 var uniqueArray = Array.from(unique);
 
-console.log(uniqueArray); // [1, 2, 4, 3]
+console.log(uniqueArray);
