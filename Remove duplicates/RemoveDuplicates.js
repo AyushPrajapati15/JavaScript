@@ -15,7 +15,6 @@ for (let item of unique) {
 // Using Set() Constructor
 var arr = [1, 2, 1, 4, 3, 3, 1, 2, 4];
 
-// create a set from array
 var unique = new Set(arr);
 
 // convert set to array
