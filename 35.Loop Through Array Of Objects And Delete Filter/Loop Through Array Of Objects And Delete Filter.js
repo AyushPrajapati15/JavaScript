@@ -7,7 +7,7 @@ const data = [
     { name: 'Peter', age: 25, group: 'B' }
   ];
   
-  // filter out people whose age is greater than 20
+  
   const filteredData = data.filter(function(item) {
     return item.age > 20;
   });
