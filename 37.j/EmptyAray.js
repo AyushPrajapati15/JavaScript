@@ -7,5 +7,5 @@ function emptyArray(arr) {
   console.log("Before emptying:", arr);
   
   emptyArray(arr);
-  console.log("After emptying:", arr); // Output: []
+  console.log("After emptying:", arr);
   
